@@ -1,0 +1,2 @@
+2023-05-07/14:45:30		'predictfrom_model' object has no attribute 'log_writer'
+2023-05-07/14:45:30		Start of Prediction

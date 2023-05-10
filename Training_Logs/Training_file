@@ -1,0 +1,11 @@
+2023-05-06/21:08:11		removing column from the data
+2023-05-06/21:08:11		removing the column
+2023-05-06/21:08:11		replacing ? in data with nan
+2023-05-06/21:08:11		finding the column that have null
+2023-05-06/21:08:11		encoding the less column
+2023-05-06/21:08:11		removing the feature and label column
+2023-05-06/21:08:11		(400, 47)
+2023-05-06/21:08:11		creating approptaite cluster
+2023-05-06/21:08:12		Number of cluster is 2
+2023-05-06/21:08:12		dividing the appropraite  groups for the colum 
+2023-05-06/21:08:15		Sucessful end of training

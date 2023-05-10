@@ -1,0 +1,12 @@
+2023-04-29/20:56:46		File exporting failed. Error : 'NoneType' object has no attribute 'cursor'
+2023-04-29/20:58:45		File exported successfully!!!
+2023-04-29/21:05:01		File exported successfully!!!
+2023-04-29/21:18:35		File exported successfully!!!
+2023-04-29/21:20:27		File exported successfully!!!
+2023-04-29/21:21:46		File exporting failed. Error : [Errno 2] No such file or directory: 'Trainingfilefromdb/Inputfile.csv'
+2023-04-29/21:23:38		File exported successfully!!!
+2023-04-29/21:40:35		File exporting failed. Error : [Errno 2] No such file or directory: 'Trainingfiledb/Inputfile.csv'
+2023-04-29/21:42:56		File exported successfully!!!
+2023-04-29/21:43:44		File exported successfully!!!
+2023-05-07/14:23:26		File exported successfully!!!
+2023-05-07/14:44:08		File exported successfully!!!

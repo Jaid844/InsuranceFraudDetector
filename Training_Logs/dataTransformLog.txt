@@ -1,0 +1,5 @@
+2023-04-29/20:20:10		[Errno 13] Permission denied: 'Training_file/Good_file/fraudDetection_021119920_010222.csv'
+2023-04-29/20:22:17		[Errno 13] Permission denied: 'Training_file/Good_file/fraudDetection_021119920_010222.csv'
+2023-04-29/20:34:03		transoformed
+2023-05-07/14:23:26		transoformed
+2023-05-07/14:44:08		transoformed

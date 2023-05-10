@@ -1,0 +1,770 @@
+2023-05-05/16:30:15		Start of Validation on files for prediction!!
+2023-05-05/16:30:15		Raw Data Validation Complete!!
+2023-05-05/16:30:15		Starting Data Transforamtion!!
+2023-05-05/16:30:15		DataTransformation Complete
+2023-05-05/16:30:15		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/16:30:15		Table creation Completed!!
+2023-05-05/16:30:15		Insertion of Data into Table started!!!!
+2023-05-05/16:30:17		Insertion in Table completed!!!
+2023-05-05/16:30:17		Deleting Good Data Folder!!!
+2023-05-05/16:30:17		Good_Data folder deleted!!!
+2023-05-05/16:30:17		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/16:30:17		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/16:30:17		Validation Operation completed!!
+2023-05-05/16:30:17		Extracting csv file from table
+2023-05-05/17:51:53		Start of Validation on files for prediction!!
+2023-05-05/17:51:54		Raw Data Validation Complete!!
+2023-05-05/17:51:54		Starting Data Transforamtion!!
+2023-05-05/17:51:54		DataTransformation Complete
+2023-05-05/17:51:54		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/17:51:54		Table creation Completed!!
+2023-05-05/17:51:54		Insertion of Data into Table started!!!!
+2023-05-05/17:51:55		Insertion in Table completed!!!
+2023-05-05/17:51:55		Deleting Good Data Folder!!!
+2023-05-05/17:51:55		Good_Data folder deleted!!!
+2023-05-05/17:51:55		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/17:51:55		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/17:51:55		Validation Operation completed!!
+2023-05-05/17:51:55		Extracting csv file from table
+2023-05-05/17:54:43		Start of Validation on files for prediction!!
+2023-05-05/17:54:43		Raw Data Validation Complete!!
+2023-05-05/17:54:43		Starting Data Transforamtion!!
+2023-05-05/17:54:43		DataTransformation Complete
+2023-05-05/17:54:43		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/17:54:43		Table creation Completed!!
+2023-05-05/17:54:43		Insertion of Data into Table started!!!!
+2023-05-05/17:54:45		Insertion in Table completed!!!
+2023-05-05/17:54:45		Deleting Good Data Folder!!!
+2023-05-05/17:54:45		Good_Data folder deleted!!!
+2023-05-05/17:54:45		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/17:54:45		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/17:54:45		Validation Operation completed!!
+2023-05-05/17:54:45		Extracting csv file from table
+2023-05-05/17:55:13		Start of Validation on files for prediction!!
+2023-05-05/17:55:13		Raw Data Validation Complete!!
+2023-05-05/17:55:13		Starting Data Transforamtion!!
+2023-05-05/17:55:13		DataTransformation Complete
+2023-05-05/17:55:13		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/17:55:13		Table creation Completed!!
+2023-05-05/17:55:13		Insertion of Data into Table started!!!!
+2023-05-05/17:55:14		Insertion in Table completed!!!
+2023-05-05/17:55:14		Deleting Good Data Folder!!!
+2023-05-05/17:55:14		Good_Data folder deleted!!!
+2023-05-05/17:55:14		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/17:55:14		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/17:55:14		Validation Operation completed!!
+2023-05-05/17:55:14		Extracting csv file from table
+2023-05-05/17:58:38		Start of Validation on files for prediction!!
+2023-05-05/17:58:38		Raw Data Validation Complete!!
+2023-05-05/17:58:38		Starting Data Transforamtion!!
+2023-05-05/17:58:38		DataTransformation Complete
+2023-05-05/17:58:38		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/17:58:38		Table creation Completed!!
+2023-05-05/17:58:38		Insertion of Data into Table started!!!!
+2023-05-05/17:58:39		Insertion in Table completed!!!
+2023-05-05/17:58:39		Deleting Good Data Folder!!!
+2023-05-05/17:58:39		Good_Data folder deleted!!!
+2023-05-05/17:58:39		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/17:58:39		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/17:58:39		Validation Operation completed!!
+2023-05-05/17:58:39		Extracting csv file from table
+2023-05-05/17:59:27		Start of Validation on files for prediction!!
+2023-05-05/17:59:27		Raw Data Validation Complete!!
+2023-05-05/17:59:27		Starting Data Transforamtion!!
+2023-05-05/17:59:27		DataTransformation Complete
+2023-05-05/17:59:27		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/17:59:27		Table creation Completed!!
+2023-05-05/17:59:27		Insertion of Data into Table started!!!!
+2023-05-05/17:59:28		Insertion in Table completed!!!
+2023-05-05/17:59:28		Deleting Good Data Folder!!!
+2023-05-05/17:59:28		Good_Data folder deleted!!!
+2023-05-05/17:59:28		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/17:59:28		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/17:59:28		Validation Operation completed!!
+2023-05-05/17:59:28		Extracting csv file from table
+2023-05-05/18:03:28		Start of Validation on files for prediction!!
+2023-05-05/18:03:28		Raw Data Validation Complete!!
+2023-05-05/18:03:28		Starting Data Transforamtion!!
+2023-05-05/18:03:28		DataTransformation Complete
+2023-05-05/18:03:28		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/18:03:28		Table creation Completed!!
+2023-05-05/18:03:28		Insertion of Data into Table started!!!!
+2023-05-05/18:03:29		Insertion in Table completed!!!
+2023-05-05/18:03:29		Deleting Good Data Folder!!!
+2023-05-05/18:03:29		Good_Data folder deleted!!!
+2023-05-05/18:03:29		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/18:03:29		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/18:03:29		Validation Operation completed!!
+2023-05-05/18:03:29		Extracting csv file from table
+2023-05-05/18:08:03		Start of Validation on files for prediction!!
+2023-05-05/18:08:03		Raw Data Validation Complete!!
+2023-05-05/18:08:03		Starting Data Transforamtion!!
+2023-05-05/18:08:03		DataTransformation Complete
+2023-05-05/18:08:03		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/18:08:03		Table creation Completed!!
+2023-05-05/18:08:03		Insertion of Data into Table started!!!!
+2023-05-05/18:08:04		Insertion in Table completed!!!
+2023-05-05/18:08:04		Deleting Good Data Folder!!!
+2023-05-05/18:08:04		Good_Data folder deleted!!!
+2023-05-05/18:08:04		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/18:08:04		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/18:08:04		Validation Operation completed!!
+2023-05-05/18:08:04		Extracting csv file from table
+2023-05-05/18:08:32		Start of Validation on files for prediction!!
+2023-05-05/18:08:32		Raw Data Validation Complete!!
+2023-05-05/18:08:32		Starting Data Transforamtion!!
+2023-05-05/18:08:32		DataTransformation Complete
+2023-05-05/18:08:32		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/18:08:33		Table creation Completed!!
+2023-05-05/18:08:33		Insertion of Data into Table started!!!!
+2023-05-05/18:08:34		Insertion in Table completed!!!
+2023-05-05/18:08:34		Deleting Good Data Folder!!!
+2023-05-05/18:08:34		Good_Data folder deleted!!!
+2023-05-05/18:08:34		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/18:08:34		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/18:08:34		Validation Operation completed!!
+2023-05-05/18:08:34		Extracting csv file from table
+2023-05-05/18:11:51		Start of Validation on files for prediction!!
+2023-05-05/18:11:51		Raw Data Validation Complete!!
+2023-05-05/18:11:51		Starting Data Transforamtion!!
+2023-05-05/18:11:51		DataTransformation Complete
+2023-05-05/18:11:51		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/18:11:51		Table creation Completed!!
+2023-05-05/18:11:51		Insertion of Data into Table started!!!!
+2023-05-05/18:11:52		Insertion in Table completed!!!
+2023-05-05/18:11:52		Deleting Good Data Folder!!!
+2023-05-05/18:11:52		Good_Data folder deleted!!!
+2023-05-05/18:11:52		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/18:11:52		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/18:11:52		Validation Operation completed!!
+2023-05-05/18:11:52		Extracting csv file from table
+2023-05-05/18:12:05		Start of Validation on files for prediction!!
+2023-05-05/18:12:05		Raw Data Validation Complete!!
+2023-05-05/18:12:05		Starting Data Transforamtion!!
+2023-05-05/18:12:05		DataTransformation Complete
+2023-05-05/18:12:05		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/18:12:05		Table creation Completed!!
+2023-05-05/18:12:05		Insertion of Data into Table started!!!!
+2023-05-05/18:12:07		Insertion in Table completed!!!
+2023-05-05/18:12:07		Deleting Good Data Folder!!!
+2023-05-05/18:12:07		Good_Data folder deleted!!!
+2023-05-05/18:12:07		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/18:12:07		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/18:12:07		Validation Operation completed!!
+2023-05-05/18:12:07		Extracting csv file from table
+2023-05-05/18:18:30		Start of Validation on files for prediction!!
+2023-05-05/18:18:30		Raw Data Validation Complete!!
+2023-05-05/18:18:30		Starting Data Transforamtion!!
+2023-05-05/18:18:30		DataTransformation Complete
+2023-05-05/18:18:30		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/18:18:30		Table creation Completed!!
+2023-05-05/18:18:30		Insertion of Data into Table started!!!!
+2023-05-05/18:18:32		Insertion in Table completed!!!
+2023-05-05/18:18:32		Deleting Good Data Folder!!!
+2023-05-05/18:18:32		Good_Data folder deleted!!!
+2023-05-05/18:18:32		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/18:18:32		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/18:18:32		Validation Operation completed!!
+2023-05-05/18:18:32		Extracting csv file from table
+2023-05-05/18:20:58		Start of Validation on files for prediction!!
+2023-05-05/18:20:58		Raw Data Validation Complete!!
+2023-05-05/18:20:58		Starting Data Transforamtion!!
+2023-05-05/18:20:58		DataTransformation Complete
+2023-05-05/18:20:58		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/18:20:58		Table creation Completed!!
+2023-05-05/18:20:58		Insertion of Data into Table started!!!!
+2023-05-05/18:20:59		Insertion in Table completed!!!
+2023-05-05/18:20:59		Deleting Good Data Folder!!!
+2023-05-05/18:20:59		Good_Data folder deleted!!!
+2023-05-05/18:20:59		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/18:20:59		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/18:20:59		Validation Operation completed!!
+2023-05-05/18:20:59		Extracting csv file from table
+2023-05-05/18:21:28		Start of Validation on files for prediction!!
+2023-05-05/18:21:28		Raw Data Validation Complete!!
+2023-05-05/18:21:28		Starting Data Transforamtion!!
+2023-05-05/18:21:28		DataTransformation Complete
+2023-05-05/18:21:28		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/18:21:28		Table creation Completed!!
+2023-05-05/18:21:28		Insertion of Data into Table started!!!!
+2023-05-05/18:21:29		Insertion in Table completed!!!
+2023-05-05/18:21:29		Deleting Good Data Folder!!!
+2023-05-05/18:21:29		Good_Data folder deleted!!!
+2023-05-05/18:21:29		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/18:21:29		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/18:21:29		Validation Operation completed!!
+2023-05-05/18:21:29		Extracting csv file from table
+2023-05-05/18:35:44		Start of Validation on files for prediction!!
+2023-05-05/18:35:44		Raw Data Validation Complete!!
+2023-05-05/18:35:44		Starting Data Transforamtion!!
+2023-05-05/18:35:44		DataTransformation Complete
+2023-05-05/18:35:44		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/18:35:44		Table creation Completed!!
+2023-05-05/18:35:44		Insertion of Data into Table started!!!!
+2023-05-05/18:35:45		Insertion in Table completed!!!
+2023-05-05/18:35:45		Deleting Good Data Folder!!!
+2023-05-05/18:35:45		Good_Data folder deleted!!!
+2023-05-05/18:35:45		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/18:35:45		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/18:35:45		Validation Operation completed!!
+2023-05-05/18:35:45		Extracting csv file from table
+2023-05-05/18:41:08		Start of Validation on files for prediction!!
+2023-05-05/18:41:08		Raw Data Validation Complete!!
+2023-05-05/18:41:08		Starting Data Transforamtion!!
+2023-05-05/18:41:08		DataTransformation Complete
+2023-05-05/18:41:08		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/18:41:08		Table creation Completed!!
+2023-05-05/18:41:08		Insertion of Data into Table started!!!!
+2023-05-05/18:41:09		Insertion in Table completed!!!
+2023-05-05/18:41:09		Deleting Good Data Folder!!!
+2023-05-05/18:41:09		Good_Data folder deleted!!!
+2023-05-05/18:41:09		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/18:41:09		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/18:41:09		Validation Operation completed!!
+2023-05-05/18:41:09		Extracting csv file from table
+2023-05-05/18:41:33		Start of Validation on files for prediction!!
+2023-05-05/18:41:33		Raw Data Validation Complete!!
+2023-05-05/18:41:33		Starting Data Transforamtion!!
+2023-05-05/18:41:33		DataTransformation Complete
+2023-05-05/18:41:33		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/18:41:33		Table creation Completed!!
+2023-05-05/18:41:33		Insertion of Data into Table started!!!!
+2023-05-05/18:41:34		Insertion in Table completed!!!
+2023-05-05/18:41:34		Deleting Good Data Folder!!!
+2023-05-05/18:41:34		Good_Data folder deleted!!!
+2023-05-05/18:41:34		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/18:41:34		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/18:41:34		Validation Operation completed!!
+2023-05-05/18:41:34		Extracting csv file from table
+2023-05-05/18:42:44		Start of Validation on files for prediction!!
+2023-05-05/18:42:44		Raw Data Validation Complete!!
+2023-05-05/18:42:44		Starting Data Transforamtion!!
+2023-05-05/18:42:44		DataTransformation Complete
+2023-05-05/18:42:44		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/18:42:44		Table creation Completed!!
+2023-05-05/18:42:44		Insertion of Data into Table started!!!!
+2023-05-05/18:42:45		Insertion in Table completed!!!
+2023-05-05/18:42:45		Deleting Good Data Folder!!!
+2023-05-05/18:42:45		Good_Data folder deleted!!!
+2023-05-05/18:42:45		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/18:42:45		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/18:42:45		Validation Operation completed!!
+2023-05-05/18:42:45		Extracting csv file from table
+2023-05-05/18:43:10		Start of Validation on files for prediction!!
+2023-05-05/18:43:10		Raw Data Validation Complete!!
+2023-05-05/18:43:10		Starting Data Transforamtion!!
+2023-05-05/18:43:10		DataTransformation Complete
+2023-05-05/18:43:10		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/18:43:10		Table creation Completed!!
+2023-05-05/18:43:10		Insertion of Data into Table started!!!!
+2023-05-05/18:43:12		Insertion in Table completed!!!
+2023-05-05/18:43:12		Deleting Good Data Folder!!!
+2023-05-05/18:43:12		Good_Data folder deleted!!!
+2023-05-05/18:43:12		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/18:43:12		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/18:43:12		Validation Operation completed!!
+2023-05-05/18:43:12		Extracting csv file from table
+2023-05-05/18:45:41		Start of Validation on files for prediction!!
+2023-05-05/18:45:41		Raw Data Validation Complete!!
+2023-05-05/18:45:41		Starting Data Transforamtion!!
+2023-05-05/18:45:41		DataTransformation Complete
+2023-05-05/18:45:41		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/18:45:41		Table creation Completed!!
+2023-05-05/18:45:41		Insertion of Data into Table started!!!!
+2023-05-05/18:45:42		Insertion in Table completed!!!
+2023-05-05/18:45:42		Deleting Good Data Folder!!!
+2023-05-05/18:45:42		Good_Data folder deleted!!!
+2023-05-05/18:45:42		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/18:45:42		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/18:45:42		Validation Operation completed!!
+2023-05-05/18:45:42		Extracting csv file from table
+2023-05-05/20:16:58		Start of Validation on files for prediction!!
+2023-05-05/20:16:58		Raw Data Validation Complete!!
+2023-05-05/20:16:58		Starting Data Transforamtion!!
+2023-05-05/20:16:59		DataTransformation Complete
+2023-05-05/20:16:59		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/20:16:59		Table creation Completed!!
+2023-05-05/20:16:59		Insertion of Data into Table started!!!!
+2023-05-05/20:17:00		Insertion in Table completed!!!
+2023-05-05/20:17:00		Deleting Good Data Folder!!!
+2023-05-05/20:17:00		Good_Data folder deleted!!!
+2023-05-05/20:17:00		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/20:17:00		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/20:17:00		Validation Operation completed!!
+2023-05-05/20:17:00		Extracting csv file from table
+2023-05-05/20:17:00		[Errno 13] Permission denied: 'Prediction_FileFromDB/Inputfile.csv'
+2023-05-05/20:17:29		Start of Validation on files for prediction!!
+2023-05-05/20:17:29		Raw Data Validation Complete!!
+2023-05-05/20:17:29		Starting Data Transforamtion!!
+2023-05-05/20:17:29		DataTransformation Complete
+2023-05-05/20:17:29		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/20:17:29		Table creation Completed!!
+2023-05-05/20:17:29		Insertion of Data into Table started!!!!
+2023-05-05/20:17:30		Insertion in Table completed!!!
+2023-05-05/20:17:30		Deleting Good Data Folder!!!
+2023-05-05/20:17:30		Good_Data folder deleted!!!
+2023-05-05/20:17:30		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/20:17:30		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/20:17:30		Validation Operation completed!!
+2023-05-05/20:17:30		Extracting csv file from table
+2023-05-05/20:17:30		[Errno 13] Permission denied: 'Prediction_FileFromDB/Inputfile.csv'
+2023-05-05/20:28:25		Start of Validation on files for prediction!!
+2023-05-05/20:28:25		Raw Data Validation Complete!!
+2023-05-05/20:28:25		Starting Data Transforamtion!!
+2023-05-05/20:28:25		DataTransformation Complete
+2023-05-05/20:28:25		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/20:28:25		Table creation Completed!!
+2023-05-05/20:28:25		Insertion of Data into Table started!!!!
+2023-05-05/20:28:26		Insertion in Table completed!!!
+2023-05-05/20:28:26		Deleting Good Data Folder!!!
+2023-05-05/20:28:26		Good_Data folder deleted!!!
+2023-05-05/20:28:26		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/20:28:26		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/20:28:26		Validation Operation completed!!
+2023-05-05/20:28:26		Extracting csv file from table
+2023-05-05/20:28:26		[Errno 13] Permission denied: 'Prediction_FileFromDB/Inputfile.csv'
+2023-05-05/20:32:59		Start of Validation on files for prediction!!
+2023-05-05/20:32:59		Raw Data Validation Complete!!
+2023-05-05/20:32:59		Starting Data Transforamtion!!
+2023-05-05/20:32:59		DataTransformation Complete
+2023-05-05/20:32:59		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/20:32:59		Table creation Completed!!
+2023-05-05/20:32:59		Insertion of Data into Table started!!!!
+2023-05-05/20:33:00		Insertion in Table completed!!!
+2023-05-05/20:33:00		Deleting Good Data Folder!!!
+2023-05-05/20:33:00		Good_Data folder deleted!!!
+2023-05-05/20:33:00		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/20:33:00		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/20:33:00		Validation Operation completed!!
+2023-05-05/20:33:00		Extracting csv file from table
+2023-05-05/20:33:00		[Errno 13] Permission denied: 'Prediction_FileFromDB/Inputfile.csv'
+2023-05-05/20:42:25		Start of Validation on files for prediction!!
+2023-05-05/20:42:25		Raw Data Validation Complete!!
+2023-05-05/20:42:25		Starting Data Transforamtion!!
+2023-05-05/20:42:25		DataTransformation Complete
+2023-05-05/20:42:25		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/20:42:26		Table creation Completed!!
+2023-05-05/20:42:26		Insertion of Data into Table started!!!!
+2023-05-05/20:42:27		Insertion in Table completed!!!
+2023-05-05/20:42:27		Deleting Good Data Folder!!!
+2023-05-05/20:42:27		Good_Data folder deleted!!!
+2023-05-05/20:42:27		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/20:42:27		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/20:42:27		Validation Operation completed!!
+2023-05-05/20:42:27		Extracting csv file from table
+2023-05-05/20:42:27		[Errno 13] Permission denied: 'Prediction_FileFromDB/Inputfile.csv'
+2023-05-05/21:01:31		Start of Validation on files for prediction!!
+2023-05-05/21:01:31		Raw Data Validation Complete!!
+2023-05-05/21:01:31		Starting Data Transforamtion!!
+2023-05-05/21:01:31		DataTransformation Complete
+2023-05-05/21:01:31		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/21:01:31		Table creation Completed!!
+2023-05-05/21:01:31		Insertion of Data into Table started!!!!
+2023-05-05/21:01:33		Insertion in Table completed!!!
+2023-05-05/21:01:33		Deleting Good Data Folder!!!
+2023-05-05/21:01:33		Good_Data folder deleted!!!
+2023-05-05/21:01:33		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/21:01:33		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/21:01:33		Validation Operation completed!!
+2023-05-05/21:01:33		Extracting csv file from table
+2023-05-05/21:02:32		Start of Validation on files for prediction!!
+2023-05-05/21:02:32		Raw Data Validation Complete!!
+2023-05-05/21:02:32		Starting Data Transforamtion!!
+2023-05-05/21:02:32		DataTransformation Complete
+2023-05-05/21:02:32		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/21:02:32		Table creation Completed!!
+2023-05-05/21:02:32		Insertion of Data into Table started!!!!
+2023-05-05/21:02:33		Insertion in Table completed!!!
+2023-05-05/21:02:33		Deleting Good Data Folder!!!
+2023-05-05/21:02:33		Good_Data folder deleted!!!
+2023-05-05/21:02:33		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/21:02:33		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/21:02:33		Validation Operation completed!!
+2023-05-05/21:02:33		Extracting csv file from table
+2023-05-05/21:03:41		Start of Validation on files for prediction!!
+2023-05-05/21:03:41		Raw Data Validation Complete!!
+2023-05-05/21:03:41		Starting Data Transforamtion!!
+2023-05-05/21:03:41		DataTransformation Complete
+2023-05-05/21:03:41		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/21:03:41		Table creation Completed!!
+2023-05-05/21:03:41		Insertion of Data into Table started!!!!
+2023-05-05/21:03:42		Insertion in Table completed!!!
+2023-05-05/21:03:42		Deleting Good Data Folder!!!
+2023-05-05/21:03:42		Good_Data folder deleted!!!
+2023-05-05/21:03:42		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/21:03:42		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/21:03:42		Validation Operation completed!!
+2023-05-05/21:03:42		Extracting csv file from table
+2023-05-05/21:03:56		Start of Validation on files for prediction!!
+2023-05-05/21:03:56		Raw Data Validation Complete!!
+2023-05-05/21:03:56		Starting Data Transforamtion!!
+2023-05-05/21:03:56		DataTransformation Complete
+2023-05-05/21:03:56		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/21:03:56		Table creation Completed!!
+2023-05-05/21:03:56		Insertion of Data into Table started!!!!
+2023-05-05/21:04:02		Start of Validation on files for prediction!!
+2023-05-05/21:04:02		Raw Data Validation Complete!!
+2023-05-05/21:04:02		Starting Data Transforamtion!!
+2023-05-05/21:04:02		DataTransformation Complete
+2023-05-05/21:04:02		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/21:04:02		Table creation Completed!!
+2023-05-05/21:04:02		Insertion of Data into Table started!!!!
+2023-05-05/21:04:03		Insertion in Table completed!!!
+2023-05-05/21:04:03		Deleting Good Data Folder!!!
+2023-05-05/21:04:03		Good_Data folder deleted!!!
+2023-05-05/21:04:03		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/21:04:03		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/21:04:03		Validation Operation completed!!
+2023-05-05/21:04:03		Extracting csv file from table
+2023-05-05/21:05:46		Start of Validation on files for prediction!!
+2023-05-05/21:05:46		Raw Data Validation Complete!!
+2023-05-05/21:05:46		Starting Data Transforamtion!!
+2023-05-05/21:05:46		DataTransformation Complete
+2023-05-05/21:05:46		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/21:05:46		Table creation Completed!!
+2023-05-05/21:05:46		Insertion of Data into Table started!!!!
+2023-05-05/21:05:48		Insertion in Table completed!!!
+2023-05-05/21:05:48		Deleting Good Data Folder!!!
+2023-05-05/21:05:48		Good_Data folder deleted!!!
+2023-05-05/21:05:48		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/21:05:48		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/21:05:48		Validation Operation completed!!
+2023-05-05/21:05:48		Extracting csv file from table
+2023-05-05/21:08:35		Start of Validation on files for prediction!!
+2023-05-05/21:08:35		Raw Data Validation Complete!!
+2023-05-05/21:08:35		Starting Data Transforamtion!!
+2023-05-05/21:08:35		DataTransformation Complete
+2023-05-05/21:08:35		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/21:08:35		Table creation Completed!!
+2023-05-05/21:08:35		Insertion of Data into Table started!!!!
+2023-05-05/21:08:36		Insertion in Table completed!!!
+2023-05-05/21:08:36		Deleting Good Data Folder!!!
+2023-05-05/21:08:36		Good_Data folder deleted!!!
+2023-05-05/21:08:36		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/21:08:36		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/21:08:36		Validation Operation completed!!
+2023-05-05/21:08:36		Extracting csv file from table
+2023-05-05/21:37:00		Start of Validation on files for prediction!!
+2023-05-05/21:37:00		Raw Data Validation Complete!!
+2023-05-05/21:37:00		Starting Data Transforamtion!!
+2023-05-05/21:37:00		DataTransformation Complete
+2023-05-05/21:37:00		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/21:37:00		Table creation Completed!!
+2023-05-05/21:37:00		Insertion of Data into Table started!!!!
+2023-05-05/21:37:01		Insertion in Table completed!!!
+2023-05-05/21:37:01		Deleting Good Data Folder!!!
+2023-05-05/21:37:01		Good_Data folder deleted!!!
+2023-05-05/21:37:01		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/21:37:01		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/21:37:01		Validation Operation completed!!
+2023-05-05/21:37:01		Extracting csv file from table
+2023-05-05/21:38:25		Start of Validation on files for prediction!!
+2023-05-05/21:38:25		Raw Data Validation Complete!!
+2023-05-05/21:38:25		Starting Data Transforamtion!!
+2023-05-05/21:38:25		DataTransformation Complete
+2023-05-05/21:38:25		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/21:38:25		Table creation Completed!!
+2023-05-05/21:38:25		Insertion of Data into Table started!!!!
+2023-05-05/21:38:26		Insertion in Table completed!!!
+2023-05-05/21:38:26		Deleting Good Data Folder!!!
+2023-05-05/21:38:26		Good_Data folder deleted!!!
+2023-05-05/21:38:26		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/21:38:26		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/21:38:26		Validation Operation completed!!
+2023-05-05/21:38:26		Extracting csv file from table
+2023-05-05/22:10:28		Start of Validation on files for prediction!!
+2023-05-05/22:10:28		Raw Data Validation Complete!!
+2023-05-05/22:10:28		Starting Data Transforamtion!!
+2023-05-05/22:10:28		DataTransformation Complete
+2023-05-05/22:10:28		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/22:10:28		Table creation Completed!!
+2023-05-05/22:10:28		Insertion of Data into Table started!!!!
+2023-05-05/22:10:29		Insertion in Table completed!!!
+2023-05-05/22:10:29		Deleting Good Data Folder!!!
+2023-05-05/22:10:29		Good_Data folder deleted!!!
+2023-05-05/22:10:29		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/22:10:29		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/22:10:29		Validation Operation completed!!
+2023-05-05/22:10:29		Extracting csv file from table
+2023-05-05/22:12:03		Start of Validation on files for prediction!!
+2023-05-05/22:12:03		Raw Data Validation Complete!!
+2023-05-05/22:12:03		Starting Data Transforamtion!!
+2023-05-05/22:12:03		DataTransformation Complete
+2023-05-05/22:12:03		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/22:12:03		Table creation Completed!!
+2023-05-05/22:12:03		Insertion of Data into Table started!!!!
+2023-05-05/22:12:04		Insertion in Table completed!!!
+2023-05-05/22:12:04		Deleting Good Data Folder!!!
+2023-05-05/22:12:04		Good_Data folder deleted!!!
+2023-05-05/22:12:04		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/22:12:04		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/22:12:04		Validation Operation completed!!
+2023-05-05/22:12:04		Extracting csv file from table
+2023-05-05/22:13:31		Start of Validation on files for prediction!!
+2023-05-05/22:13:31		Raw Data Validation Complete!!
+2023-05-05/22:13:31		Starting Data Transforamtion!!
+2023-05-05/22:13:31		DataTransformation Complete
+2023-05-05/22:13:31		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/22:13:31		Table creation Completed!!
+2023-05-05/22:13:31		Insertion of Data into Table started!!!!
+2023-05-05/22:13:32		Insertion in Table completed!!!
+2023-05-05/22:13:32		Deleting Good Data Folder!!!
+2023-05-05/22:13:32		Good_Data folder deleted!!!
+2023-05-05/22:13:32		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/22:13:32		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/22:13:32		Validation Operation completed!!
+2023-05-05/22:13:32		Extracting csv file from table
+2023-05-05/22:13:48		Start of Validation on files for prediction!!
+2023-05-05/22:13:48		Raw Data Validation Complete!!
+2023-05-05/22:13:48		Starting Data Transforamtion!!
+2023-05-05/22:13:48		DataTransformation Complete
+2023-05-05/22:13:48		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/22:13:48		Table creation Completed!!
+2023-05-05/22:13:48		Insertion of Data into Table started!!!!
+2023-05-05/22:13:49		Insertion in Table completed!!!
+2023-05-05/22:13:49		Deleting Good Data Folder!!!
+2023-05-05/22:13:49		Good_Data folder deleted!!!
+2023-05-05/22:13:49		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/22:13:49		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/22:13:49		Validation Operation completed!!
+2023-05-05/22:13:49		Extracting csv file from table
+2023-05-05/22:27:27		Start of Validation on files for prediction!!
+2023-05-05/22:27:28		Raw Data Validation Complete!!
+2023-05-05/22:27:28		Starting Data Transforamtion!!
+2023-05-05/22:27:28		DataTransformation Complete
+2023-05-05/22:27:28		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-05/22:27:28		Table creation Completed!!
+2023-05-05/22:27:28		Insertion of Data into Table started!!!!
+2023-05-05/22:27:29		Insertion in Table completed!!!
+2023-05-05/22:27:29		Deleting Good Data Folder!!!
+2023-05-05/22:27:29		Good_Data folder deleted!!!
+2023-05-05/22:27:29		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-05/22:27:29		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-05/22:27:29		Validation Operation completed!!
+2023-05-05/22:27:29		Extracting csv file from table
+2023-05-06/21:18:11		Start of Validation on files for prediction!!
+2023-05-06/21:18:11		Raw Data Validation Complete!!
+2023-05-06/21:18:11		Starting Data Transforamtion!!
+2023-05-06/21:18:12		DataTransformation Complete
+2023-05-06/21:18:12		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-06/21:18:12		Table creation Completed!!
+2023-05-06/21:18:12		Insertion of Data into Table started!!!!
+2023-05-06/21:18:14		Insertion in Table completed!!!
+2023-05-06/21:18:14		Deleting Good Data Folder!!!
+2023-05-06/21:18:14		Good_Data folder deleted!!!
+2023-05-06/21:18:14		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-06/21:18:14		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-06/21:18:14		Validation Operation completed!!
+2023-05-06/21:18:14		Extracting csv file from table
+2023-05-06/21:56:07		Start of Validation on files for prediction!!
+2023-05-06/21:56:07		Raw Data Validation Complete!!
+2023-05-06/21:56:07		Starting Data Transforamtion!!
+2023-05-06/21:56:07		DataTransformation Complete
+2023-05-06/21:56:07		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-06/21:56:07		Table creation Completed!!
+2023-05-06/21:56:07		Insertion of Data into Table started!!!!
+2023-05-06/21:56:09		Insertion in Table completed!!!
+2023-05-06/21:56:09		Deleting Good Data Folder!!!
+2023-05-06/21:56:09		Good_Data folder deleted!!!
+2023-05-06/21:56:09		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-06/21:56:09		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-06/21:56:09		Validation Operation completed!!
+2023-05-06/21:56:09		Extracting csv file from table
+2023-05-06/21:58:04		Start of Validation on files for prediction!!
+2023-05-06/21:58:04		Raw Data Validation Complete!!
+2023-05-06/21:58:04		Starting Data Transforamtion!!
+2023-05-06/21:58:04		DataTransformation Complete
+2023-05-06/21:58:04		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-06/21:58:04		Table creation Completed!!
+2023-05-06/21:58:04		Insertion of Data into Table started!!!!
+2023-05-06/21:58:06		Insertion in Table completed!!!
+2023-05-06/21:58:06		Deleting Good Data Folder!!!
+2023-05-06/21:58:06		Good_Data folder deleted!!!
+2023-05-06/21:58:06		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-06/21:58:06		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-06/21:58:06		Validation Operation completed!!
+2023-05-06/21:58:06		Extracting csv file from table
+2023-05-06/22:01:33		Start of Validation on files for prediction!!
+2023-05-06/22:01:33		Raw Data Validation Complete!!
+2023-05-06/22:01:33		Starting Data Transforamtion!!
+2023-05-06/22:01:33		DataTransformation Complete
+2023-05-06/22:01:33		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-06/22:01:34		Table creation Completed!!
+2023-05-06/22:01:34		Insertion of Data into Table started!!!!
+2023-05-06/22:01:36		Insertion in Table completed!!!
+2023-05-06/22:01:36		Deleting Good Data Folder!!!
+2023-05-06/22:01:36		Good_Data folder deleted!!!
+2023-05-06/22:01:36		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-06/22:01:36		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-06/22:01:36		Validation Operation completed!!
+2023-05-06/22:01:36		Extracting csv file from table
+2023-05-06/22:02:02		Start of Validation on files for prediction!!
+2023-05-06/22:02:02		Raw Data Validation Complete!!
+2023-05-06/22:02:02		Starting Data Transforamtion!!
+2023-05-06/22:02:02		DataTransformation Complete
+2023-05-06/22:02:02		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-06/22:02:02		Table creation Completed!!
+2023-05-06/22:02:02		Insertion of Data into Table started!!!!
+2023-05-06/22:02:04		Insertion in Table completed!!!
+2023-05-06/22:02:04		Deleting Good Data Folder!!!
+2023-05-06/22:02:04		Good_Data folder deleted!!!
+2023-05-06/22:02:04		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-06/22:02:04		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-06/22:02:04		Validation Operation completed!!
+2023-05-06/22:02:04		Extracting csv file from table
+2023-05-06/22:02:46		Start of Validation on files for prediction!!
+2023-05-06/22:02:46		Raw Data Validation Complete!!
+2023-05-06/22:02:46		Starting Data Transforamtion!!
+2023-05-06/22:02:46		DataTransformation Complete
+2023-05-06/22:02:46		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-06/22:02:46		Table creation Completed!!
+2023-05-06/22:02:46		Insertion of Data into Table started!!!!
+2023-05-06/22:02:48		Insertion in Table completed!!!
+2023-05-06/22:02:48		Deleting Good Data Folder!!!
+2023-05-06/22:02:48		Good_Data folder deleted!!!
+2023-05-06/22:02:48		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-06/22:02:48		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-06/22:02:48		Validation Operation completed!!
+2023-05-06/22:02:48		Extracting csv file from table
+2023-05-07/13:23:13		Start of Validation on files for prediction!!
+2023-05-07/13:23:13		Raw Data Validation Complete!!
+2023-05-07/13:23:13		Starting Data Transforamtion!!
+2023-05-07/13:23:13		DataTransformation Complete
+2023-05-07/13:23:13		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-07/13:23:13		Table creation Completed!!
+2023-05-07/13:23:13		Insertion of Data into Table started!!!!
+2023-05-07/13:23:14		Insertion in Table completed!!!
+2023-05-07/13:23:14		Deleting Good Data Folder!!!
+2023-05-07/13:23:14		Good_Data folder deleted!!!
+2023-05-07/13:23:14		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-07/13:23:14		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-07/13:23:14		Validation Operation completed!!
+2023-05-07/13:23:14		Extracting csv file from table
+2023-05-07/13:23:38		Start of Validation on files for prediction!!
+2023-05-07/13:23:38		Raw Data Validation Complete!!
+2023-05-07/13:23:38		Starting Data Transforamtion!!
+2023-05-07/13:23:38		DataTransformation Complete
+2023-05-07/13:23:38		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-07/13:23:38		Table creation Completed!!
+2023-05-07/13:23:38		Insertion of Data into Table started!!!!
+2023-05-07/13:23:39		Insertion in Table completed!!!
+2023-05-07/13:23:39		Deleting Good Data Folder!!!
+2023-05-07/13:23:39		Good_Data folder deleted!!!
+2023-05-07/13:23:39		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-07/13:23:39		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-07/13:23:39		Validation Operation completed!!
+2023-05-07/13:23:39		Extracting csv file from table
+2023-05-07/13:23:50		Start of Validation on files for prediction!!
+2023-05-07/13:23:50		Raw Data Validation Complete!!
+2023-05-07/13:23:50		Starting Data Transforamtion!!
+2023-05-07/13:23:50		DataTransformation Complete
+2023-05-07/13:23:50		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-07/13:23:50		Table creation Completed!!
+2023-05-07/13:23:50		Insertion of Data into Table started!!!!
+2023-05-07/13:23:51		Insertion in Table completed!!!
+2023-05-07/13:23:51		Deleting Good Data Folder!!!
+2023-05-07/13:23:51		Good_Data folder deleted!!!
+2023-05-07/13:23:51		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-07/13:23:51		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-07/13:23:51		Validation Operation completed!!
+2023-05-07/13:23:51		Extracting csv file from table
+2023-05-07/13:26:05		Start of Validation on files for prediction!!
+2023-05-07/13:26:05		Raw Data Validation Complete!!
+2023-05-07/13:26:05		Starting Data Transforamtion!!
+2023-05-07/13:26:05		DataTransformation Complete
+2023-05-07/13:26:05		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-07/13:26:05		Table creation Completed!!
+2023-05-07/13:26:05		Insertion of Data into Table started!!!!
+2023-05-07/13:26:06		Insertion in Table completed!!!
+2023-05-07/13:26:06		Deleting Good Data Folder!!!
+2023-05-07/13:26:06		Good_Data folder deleted!!!
+2023-05-07/13:26:06		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-07/13:26:06		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-07/13:26:06		Validation Operation completed!!
+2023-05-07/13:26:06		Extracting csv file from table
+2023-05-07/13:27:42		Start of Validation on files for prediction!!
+2023-05-07/13:27:42		Raw Data Validation Complete!!
+2023-05-07/13:27:42		Starting Data Transforamtion!!
+2023-05-07/13:27:42		DataTransformation Complete
+2023-05-07/13:27:42		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-07/13:27:42		Table creation Completed!!
+2023-05-07/13:27:42		Insertion of Data into Table started!!!!
+2023-05-07/13:27:43		Insertion in Table completed!!!
+2023-05-07/13:27:43		Deleting Good Data Folder!!!
+2023-05-07/13:27:43		Good_Data folder deleted!!!
+2023-05-07/13:27:43		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-07/13:27:43		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-07/13:27:43		Validation Operation completed!!
+2023-05-07/13:27:43		Extracting csv file from table
+2023-05-07/13:55:20		Start of Validation on files for prediction!!
+2023-05-07/13:55:20		Raw Data Validation Complete!!
+2023-05-07/13:55:20		Starting Data Transforamtion!!
+2023-05-07/13:55:20		DataTransformation Complete
+2023-05-07/13:55:20		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-07/13:55:21		Table creation Completed!!
+2023-05-07/13:55:21		Insertion of Data into Table started!!!!
+2023-05-07/13:55:22		Insertion in Table completed!!!
+2023-05-07/13:55:22		Deleting Good Data Folder!!!
+2023-05-07/13:55:22		Good_Data folder deleted!!!
+2023-05-07/13:55:22		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-07/13:55:22		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-07/13:55:22		Validation Operation completed!!
+2023-05-07/13:55:22		Extracting csv file from table
+2023-05-07/13:58:00		Start of Validation on files for prediction!!
+2023-05-07/13:58:00		Raw Data Validation Complete!!
+2023-05-07/13:58:00		Starting Data Transforamtion!!
+2023-05-07/13:58:00		DataTransformation Complete
+2023-05-07/13:58:00		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-07/13:58:00		Table creation Completed!!
+2023-05-07/13:58:00		Insertion of Data into Table started!!!!
+2023-05-07/13:58:02		Insertion in Table completed!!!
+2023-05-07/13:58:02		Deleting Good Data Folder!!!
+2023-05-07/13:58:02		Good_Data folder deleted!!!
+2023-05-07/13:58:02		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-07/13:58:02		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-07/13:58:02		Validation Operation completed!!
+2023-05-07/13:58:02		Extracting csv file from table
+2023-05-07/14:25:57		Start of Validation on files for prediction!!
+2023-05-07/14:25:57		Raw Data Validation Complete!!
+2023-05-07/14:25:57		Starting Data Transforamtion!!
+2023-05-07/14:25:57		DataTransformation Complete
+2023-05-07/14:25:57		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-07/14:25:57		Table creation Completed!!
+2023-05-07/14:25:57		Insertion of Data into Table started!!!!
+2023-05-07/14:25:58		Insertion in Table completed!!!
+2023-05-07/14:25:58		Deleting Good Data Folder!!!
+2023-05-07/14:25:58		Good_Data folder deleted!!!
+2023-05-07/14:25:58		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-07/14:25:58		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-07/14:25:58		Validation Operation completed!!
+2023-05-07/14:25:58		Extracting csv file from table
+2023-05-07/14:27:28		Start of Validation on files for prediction!!
+2023-05-07/14:27:28		Raw Data Validation Complete!!
+2023-05-07/14:27:28		Starting Data Transforamtion!!
+2023-05-07/14:27:28		DataTransformation Complete
+2023-05-07/14:27:28		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-07/14:27:28		Table creation Completed!!
+2023-05-07/14:27:28		Insertion of Data into Table started!!!!
+2023-05-07/14:27:29		Insertion in Table completed!!!
+2023-05-07/14:27:29		Deleting Good Data Folder!!!
+2023-05-07/14:27:29		Good_Data folder deleted!!!
+2023-05-07/14:27:29		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-07/14:27:29		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-07/14:27:29		Validation Operation completed!!
+2023-05-07/14:27:29		Extracting csv file from table
+2023-05-07/14:29:38		Start of Validation on files for prediction!!
+2023-05-07/14:29:38		Raw Data Validation Complete!!
+2023-05-07/14:29:38		Starting Data Transforamtion!!
+2023-05-07/14:29:38		DataTransformation Complete
+2023-05-07/14:29:38		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-05-07/14:29:38		Table creation Completed!!
+2023-05-07/14:29:38		Insertion of Data into Table started!!!!
+2023-05-07/14:29:39		Insertion in Table completed!!!
+2023-05-07/14:29:39		Deleting Good Data Folder!!!
+2023-05-07/14:29:39		Good_Data folder deleted!!!
+2023-05-07/14:29:39		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-05-07/14:29:39		Bad files moved to archive!! Bad folder Deleted!!
+2023-05-07/14:29:39		Validation Operation completed!!
+2023-05-07/14:29:39		Extracting csv file from table
+2023-05-07/14:45:30		Start of Validation on files for prediction!!
+2023-05-07/14:45:30		[WinError 3] The system cannot find the path specified: 'Prediction_Batch_file'
