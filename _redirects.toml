@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "/main.py"
+  status = 200
+  force = true
