@@ -11,28 +11,18 @@ jobs:
     steps:
       - checkout
 
-      - setup_remote_docker:
-          version: 20.10.7
-
-      - run:
-          name: Install Docker Compose
-          command: |
-            sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
-            sudo chmod +x /usr/local/bin/docker-compose
-
       - run:
           name: Install dependencies
           command: pip install -r requirements.txt
 
-      
       - run:
-          name: Build and deploy Docker image
+          name: Run Flask app
           command: |
-            docker-compose -f path/to/docker-compose.yml build
-            docker-compose -f path/to/docker-compose.yml up -d
+            export FLASK_APP=main.py
+            flask run --host=0.0.0.0
 
 workflows:
   version: 2
-  build-and-deploy:
+  build-and-run:
     jobs:
       - build
