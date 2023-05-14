@@ -19,7 +19,7 @@ jobs:
           name: Run Flask app
           command: |
             export FLASK_APP=main.py
-            flask run --host=0.0.0.0
+            
 
 workflows:
   version: 2
