@@ -24,13 +24,15 @@ jobs:
           name: Install dependencies
           command: pip install -r requirements.txt
 
-     
+      - run:
+          name: Run tests
+          command: pytest
 
       - run:
           name: Build and deploy Docker image
           command: |
-            docker-compose build
-            docker-compose up -d
+            docker-compose -f path/to/docker-compose.yml build
+            docker-compose -f path/to/docker-compose.yml up -d
 
 workflows:
   version: 2
