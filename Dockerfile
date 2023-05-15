@@ -9,5 +9,6 @@ COPY . /main
 
 COPY requirements.txt /tmp/requirements.txt
 RUN pip3 install -r /tmp/requirements.txt
+EXPOSE $PORT
+CMD gunicorn --workers=4 --bind 0.0.0.0:$PORT main:app
 
-CMD ["python3", "main.py"]
