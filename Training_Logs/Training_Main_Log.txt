@@ -1,4 +1,4 @@
-2023-04-29/21:43:44		Start of Validation on files for Training!!
+2023-04-29/21:43:44		Start of Validation on files for Trainin
 2023-04-29/21:43:44		raw file validated
 2023-04-29/21:43:44		Starting Data Transforamtion!!
 2023-04-29/21:43:44		DataTransformation Completed!!!
